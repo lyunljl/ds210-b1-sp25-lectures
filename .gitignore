@@ -1,0 +1,6 @@
+# OS Files
+.DS_Store
+
+.ipynb_checkpoints/
+
+*.bkp

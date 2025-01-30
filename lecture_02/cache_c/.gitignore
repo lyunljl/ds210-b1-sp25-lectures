@@ -1,0 +1,3 @@
+*.dSYM/
+cache[0-9]
+a.out
