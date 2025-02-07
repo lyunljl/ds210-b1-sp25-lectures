@@ -40,6 +40,23 @@ pip install -r requirements.txt
 To install Rust as a kernel option for Jupyter, follow these
 [instructions](https://racum.blog/articles/rust-jupyter/).
 
+### Rust Notebook Kernel on VSCode Rust Cloud
+
+To run the Jupyter notebooks on the VSCode Rust cloud instance, do the following:
+
+1. Install Jupyter vscode extension pack (from ms-toolsai)
+2. install Python vscode extension (from ms-python)
+
+3.  In vscode, open a terminal and run:
+
+```sh
+cargo install --locked evcxr_jupyter
+
+evcxr_jupyter --install
+```
+
+4. Install rust-analyzer vscode extension (from rust-lang)
+
 #### Select Rust Kernel for Jupyter Notebooks in VSCode
 
 When you open a Jupyter notebook with Rust code cells, the Rust kernel may
