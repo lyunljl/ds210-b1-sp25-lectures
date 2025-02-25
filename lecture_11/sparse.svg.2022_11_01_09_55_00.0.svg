@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+
+<!-- CreationDate: 2022-03-28 17:45:14 -->
+
+<!-- Magnification: 1.05 -->
+
+<svg
+   width="596pt"
+   height="247pt"
+   viewBox="2644 1587 9449 3918"
+   version="1.1"
+   id="svg152"
+   sodipodi:docname="sparse.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs156">
+    <marker
+       markerWidth="0.52499998"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapTriangle"
+       viewBox="0 0 0.525 1"
+       inkscape:stockid="pin"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7813"
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 1,0 0,1 -0.05,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)" />
+    </marker>
+    <clipPath
+       id="cp0-3">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-9" />
+    </clipPath>
+    <clipPath
+       id="cp0-7">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-0" />
+    </clipPath>
+    <clipPath
+       id="cp0-9">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-8" />
+    </clipPath>
+    <clipPath
+       id="cp0-5">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-7" />
+    </clipPath>
+    <clipPath
+       id="cp0-3-6">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-9-2" />
+    </clipPath>
+    <clipPath
+       id="cp0-7-7">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-0-0" />
+    </clipPath>
+    <clipPath
+       id="cp0-9-3">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-8-9" />
+    </clipPath>
+    <clipPath
+       id="cp0-36">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-5" />
+    </clipPath>
+    <clipPath
+       id="cp0-3-5">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-9-8" />
+    </clipPath>
+    <clipPath
+       id="cp0-7-1">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-0-4" />
+    </clipPath>
+    <clipPath
+       id="cp0-9-7">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-8-1" />
+    </clipPath>
+    <clipPath
+       id="cp0-9-7-4">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-8-1-6" />
+    </clipPath>
+    <clipPath
+       id="cp0-7-1-0">
+      <path
+         clip-rule="evenodd"
+         d="m 2644,1587 h 9449 V 5505 H 2644 Z m 6741,168 v 180 l 458,-57 v -66 z"
+         id="path56-0-4-3" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview154"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false" />
+  <g
+     fill="none"
+     id="g150">
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Line -->
+    <polyline
+       points=" 3150,3600 4500,4950 5850,3600 3150,3600 4500,2250 5850,3600 7200,2250 5850,3600  7200,4950"
+       stroke="#000000"
+       stroke-width="30px"
+       id="polyline42" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="4500"
+       y="1980"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="bold"
+       font-size="360"
+       text-anchor="middle"
+       id="text44">1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2790"
+       y="3780"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="bold"
+       font-size="360"
+       text-anchor="middle"
+       id="text46">0</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="5850"
+       y="3330"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="bold"
+       font-size="360"
+       text-anchor="middle"
+       id="text48">2</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="4500"
+       y="5490"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="bold"
+       font-size="360"
+       text-anchor="middle"
+       id="text50">3</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="7200"
+       y="1980"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="bold"
+       font-size="360"
+       text-anchor="middle"
+       id="text52">4</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="7200"
+       y="5490"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="bold"
+       font-size="360"
+       text-anchor="middle"
+       id="text54">5</text>
+    <!-- Line -->
+    <defs
+       id="defs59">
+      <clipPath
+         id="cp0">
+        <path
+           clip-rule="evenodd"
+           d="M 2644,1587 H 12093 V 5505 H 2644 z   M 9385,1755 9385,1935 9843,1878 9843,1812z"
+           id="path56" />
+      </clipPath>
+    </defs>
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61"
+       transform="matrix(3.9597586,0,0,3.9597586,-26354.53,-5445.5792)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none;marker-start:;marker-mid:url(#CapTriangle)" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-3)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-9"
+       transform="matrix(3.9597586,0,0,3.9597586,-26346.59,-5278.6827)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-7)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-3"
+       transform="matrix(3.9597586,0,0,3.9597586,-26346.59,-5096.584)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-9)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-6"
+       transform="matrix(3.9597586,0,0,3.9597586,-26346.589,-4906.8978)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-5)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-99"
+       transform="matrix(3.9597586,0,0,3.9597586,-26342.973,-4736.1665)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-3-6)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-9-1"
+       transform="matrix(3.9597586,0,0,3.9597586,-26335.033,-4569.27)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-7-7)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-3-7"
+       transform="matrix(3.9597586,0,0,3.9597586,-26335.033,-4387.1713)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-9-3)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-6-2"
+       transform="matrix(3.9597586,0,0,3.9597586,-26335.032,-4197.4851)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-36)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-38"
+       transform="matrix(3.9597586,0,0,3.9597586,-26342.973,-4015.3591)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-3-5)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-9-4"
+       transform="matrix(3.9597586,0,0,3.9597586,-26335.033,-3848.4626)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-7-1)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-3-8"
+       transform="matrix(3.9597586,0,0,3.9597586,-26335.033,-3666.3639)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-9-7)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-6-0"
+       transform="matrix(3.9597586,0,0,3.9597586,-26335.032,-3476.6777)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-7-1-0)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-3-8-2"
+       transform="matrix(3.9597586,0,0,3.9597586,-26339.003,-3271.8029)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <polyline
+       points=" 9135,1845 9810,1845"
+       clip-path="url(#cp0-9-7-4)"
+       stroke="#000000"
+       stroke-width="23.6954px"
+       id="polyline61-6-0-6"
+       transform="matrix(3.9597586,0,0,3.9597586,-26339.002,-3082.1167)"
+       style="fill:#000000;fill-opacity:1;stroke-width:15.1543;stroke-dasharray:none" />
+    <!-- Forward arrow to point 9810,1845 -->
+    <!-- Line -->
+    <defs
+       id="defs68">
+      <clipPath
+         id="cp1">
+        <path
+           clip-rule="evenodd"
+           d="M 2644,1587 H 12093 V 5505 H 2644 z   M 9385,2430 9385,2610 9843,2553 9843,2487z"
+           id="path65" />
+      </clipPath>
+    </defs>
+    <!-- Forward arrow to point 9810,2520 -->
+    <!-- Line -->
+    <defs
+       id="defs77">
+      <clipPath
+         id="cp2">
+        <path
+           clip-rule="evenodd"
+           d="M 2644,1587 H 12093 V 5505 H 2644 z   M 9385,3105 9385,3285 9843,3228 9843,3162z"
+           id="path74" />
+      </clipPath>
+    </defs>
+    <!-- Forward arrow to point 9810,3195 -->
+    <!-- Line -->
+    <defs
+       id="defs86">
+      <clipPath
+         id="cp3">
+        <path
+           clip-rule="evenodd"
+           d="M 2644,1587 H 12093 V 5505 H 2644 z   M 9385,3780 9385,3960 9843,3903 9843,3837z"
+           id="path83" />
+      </clipPath>
+    </defs>
+    <!-- Forward arrow to point 9810,3870 -->
+    <!-- Line -->
+    <defs
+       id="defs95">
+      <clipPath
+         id="cp4">
+        <path
+           clip-rule="evenodd"
+           d="M 2644,1587 H 12093 V 5505 H 2644 z   M 9385,4500 9385,4680 9843,4623 9843,4557z"
+           id="path92" />
+      </clipPath>
+    </defs>
+    <!-- Forward arrow to point 9810,4590 -->
+    <!-- Line -->
+    <defs
+       id="defs104">
+      <clipPath
+         id="cp5">
+        <path
+           clip-rule="evenodd"
+           d="M 2644,1587 H 12093 V 5505 H 2644 z   M 9385,5130 9385,5310 9843,5253 9843,5187z"
+           id="path101" />
+      </clipPath>
+    </defs>
+    <!-- Forward arrow to point 9810,5220 -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Circle -->
+    <circle
+       cx="3150"
+       cy="3600"
+       r="90"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="30px"
+       id="circle138" />
+    <!-- Circle -->
+    <circle
+       cx="4500"
+       cy="2250"
+       r="90"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="30px"
+       id="circle140" />
+    <!-- Circle -->
+    <circle
+       cx="4500"
+       cy="4950"
+       r="90"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="30px"
+       id="circle142" />
+    <!-- Circle -->
+    <circle
+       cx="5850"
+       cy="3600"
+       r="90"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="30px"
+       id="circle144" />
+    <!-- Circle -->
+    <circle
+       cx="7200"
+       cy="2250"
+       r="90"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="30px"
+       id="circle146" />
+    <!-- Circle -->
+    <circle
+       cx="7200"
+       cy="4950"
+       r="90"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="30px"
+       id="circle148" />
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9470.2227"
+       y="1761.5112"
+       id="text1315"><tspan
+         sodipodi:role="line"
+         id="tspan1313"
+         style="stroke-width:60.0073"
+         x="9470.2227"
+         y="1761.5112" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9621.9717"
+       y="1920.8474"
+       id="text1341"><tspan
+         sodipodi:role="line"
+         id="tspan1339"
+         style="stroke-width:60.0073"
+         x="9621.9717"
+         y="1920.8474">0</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9621.9717"
+         y="2099.2986"
+         id="tspan1343" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9622.0469"
+       y="2071.3469"
+       id="text1341-4"><tspan
+         sodipodi:role="line"
+         id="tspan1339-3"
+         style="stroke-width:60.0073"
+         x="9622.0469"
+         y="2071.3469">0</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9622.0469"
+         y="2249.7983"
+         id="tspan1343-6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9622.0479"
+       y="2238.2708"
+       id="text1341-5"><tspan
+         sodipodi:role="line"
+         id="tspan1339-9"
+         style="stroke-width:60.0073"
+         x="9622.0479"
+         y="2238.2708">0</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9622.0479"
+         y="2416.7219"
+         id="tspan1343-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9625.6943"
+       y="2425.3628"
+       id="text1341-49"><tspan
+         sodipodi:role="line"
+         id="tspan1339-1"
+         style="stroke-width:60.0073"
+         x="9625.6943"
+         y="2425.3628">1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9625.6943"
+         y="2603.814"
+         id="tspan1343-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9626.7295"
+       y="2605.2224"
+       id="text1341-49-8"><tspan
+         sodipodi:role="line"
+         id="tspan1339-1-7"
+         style="stroke-width:60.0073"
+         x="9626.7295"
+         y="2605.2224">1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9626.7295"
+         y="2783.6736"
+         id="tspan1343-7-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9626.7295"
+       y="2779.3542"
+       id="text1341-49-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan1339-1-7-7"
+         style="stroke-width:60.0073"
+         x="9626.7295"
+         y="2779.3542">2</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9626.7295"
+         y="2957.8054"
+         id="tspan2378" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9626.7295"
+         y="3136.2568"
+         id="tspan1343-7-8-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9627.3936"
+       y="2956.489"
+       id="text1341-49-8-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan1339-1-7-7-8"
+         style="stroke-width:60.0073"
+         x="9627.3936"
+         y="2956.489">2</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9627.3936"
+         y="3134.9402"
+         id="tspan2378-3" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9627.3936"
+         y="3313.3916"
+         id="tspan1343-7-8-4-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:142.761px;fill:#000000;fill-opacity:1;stroke-width:60.0073;stroke-dasharray:none"
+       x="9627.3936"
+       y="2999.8308"
+       id="text1341-49-8-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan1339-1-7-7-2"
+         style="stroke-width:60.0073"
+         x="9627.3936"
+         y="2999.8308">2</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9627.3936"
+         y="3178.282"
+         id="tspan2378-2" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:60.0073"
+         x="9627.3936"
+         y="3356.7334"
+         id="tspan1343-7-8-4-5" /></text>
+  </g>
+</svg>
