@@ -1,0 +1,56 @@
+****** General Knowledge
+
+* Types of programming languages:  Assembler, Interpreted, Compiled, ByteCode (Java), Static vs Dynamic types, garbage collection vs explicit memory allocation.  imperative, functional, object oriented, declarative.  Where does Rust fall in all this:  Compiled, Static Typed, Manual memory management, imperative/functional/object-oriented.
+
+* Structure of an executable (stack, heap, text, data, bss)
+
+* Basic Systems concepts: Numbering Systems (Decimal, Binary, Hexdecimal, Octal), Von Neuman Architecture (Memory, Processor, I/O), Memory Hierarchy, High level Trends, Sizes, and Costs
+
+* Unix file system and layout, File Permissions
+
+* Shell, Shell Commands, and Shell Scripts, Important commands (ls, cd, cp, mv, cat, touch, mkdir, rm, cd, chmod, echo..)
+
+* Git and source control.  What does the life cycle of code development look like with git source control?
+
+* How can explicity memory management fail (leaks, use after free, double free)
+
+* Hash functions and their properties.
+
+* Complexity of an algorithm/code (as a function of the input)
+
+****** Rust Language Knowledge
+
+* Basic types (unsigned and signed integers of various sizes, characters, bools, strings.  Interoperability of basic types.
+
+* cargo commands (run, build, check) and what they do
+
+* Control flow:  if statements, conditional expressions, function definitions, for loops, while loops, loops (with breaks and continues).  Named breaks and continues for nested loops.
+
+*Arrays, Tuples, Structs, Enums, Match statements.
+
+* Rust memory semantics (ownership of memory).  Rust references (mutable, immutable and rules for them, &, *)
+
+* Methods and object oriented programming in Rust.
+
+* Box in Rust
+
+* Clone and Copy in Rust
+
+* Parameterizing structs, functions etc. <T> notation.
+
+* Option and Result enums and their uses
+
+* Traits (kinda like interfaces)
+
+* Arrays, Vectors, HashMaps, HashSets,
+
+* Modules
+
+* Book Chapters 3, 4, 5, 6, 7, 8, 10 (not 10.3), 11
+
+***** Algorithms Knowledge
+
+* Graph Representations (list of edges, adjacency lists, adjacency matrix)
+
+* Counting triangles
+
