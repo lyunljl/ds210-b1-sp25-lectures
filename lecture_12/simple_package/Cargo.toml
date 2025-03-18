@@ -1,0 +1,20 @@
+[package]
+name = "simple_library2"
+version = "0.1.0"
+edition = "2021"
+
+# the double brackets indicate this is part of an array of bins
+[[bin]]
+name = "first_bin"
+path = "src/main.rs"
+
+[[bin]]
+name = "second_bin"
+path = "src/bin/other.rs"
+
+# single bracket means we can have only one lib
+[lib]
+name = "librs"
+path = "src/lib/lib.rs"
+
+[dependencies]
