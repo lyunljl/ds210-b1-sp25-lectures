@@ -1,0 +1,2 @@
+https://towardsdatascience.com/rustic-data-data-visualization-with-plotters-part-1-7a34b6f4a603
+https://github.com/wiseaidev/rust-data-analysis/blob/main/6-plotters-tutorial-part-1.ipynb
