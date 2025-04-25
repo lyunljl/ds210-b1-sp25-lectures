@@ -70,23 +70,22 @@ impl NeuralNetwork {
         }
     }
 
-    fn forward(&self, input: &Array2<f32>) -> (Array2<f32>, Array2<f32>, Array2<f32>) {
+    fn forward(&self, input: &Array2<f32>) -> (Array2<f32>, Array2<f32>) {
         // First layer
-        let pre_activation1 = self.weights1.dot(input) + &self.biases1;
+        let pre_activation1 = self.weights1.dot(input) + &self.biases1.broadcast((self.weights1.shape()[0], input.shape()[1])).unwrap();
         let hidden = relu(&pre_activation1);
 
         // Output layer
-        let pre_activation2 = self.weights2.dot(&hidden) + &self.biases2;
+        let pre_activation2 = self.weights2.dot(&hidden) + &self.biases2.broadcast((self.weights2.shape()[0], hidden.shape()[1])).unwrap();
         let output = softmax(&pre_activation2);
 
-        (hidden, pre_activation2, output)
+        (hidden, output)
     }
 
     fn backward(
         &mut self,
         input: &Array2<f32>,
         hidden: &Array2<f32>,
-        pre_activation2: &Array2<f32>,
         output: &Array2<f32>,
         target: &Array2<f32>,
     ) {
@@ -116,7 +115,7 @@ impl NeuralNetwork {
 
     fn train(&mut self, input: &Array2<f32>, target: &Array2<f32>) -> f32 {
         // Forward pass
-        let (hidden, pre_activation2, output) = self.forward(input);
+        let (hidden, output) = self.forward(input);
 
         // Calculate loss (cross-entropy)
         let epsilon = 1e-15;
@@ -124,7 +123,7 @@ impl NeuralNetwork {
         let loss = loss.sum() / (input.shape()[1] as f32);
 
         // Backward pass
-        self.backward(input, &hidden, &pre_activation2, &output, target);
+        self.backward(input, &hidden,  &output, target);
 
         loss
     }
@@ -142,20 +141,11 @@ fn main() {
     let mut target = Array2::zeros((nn.output_size, 1));
     populate_array(&mut target, nn.output_size, 1);
     
-    // Calculate initial cross entropy loss before training
-    let (_, _, initial_output) = nn.forward(&input);
-    let epsilon = 1e-15;
-    let initial_loss = -&target * &initial_output.mapv(|x| (x + epsilon).ln());
-    let initial_loss = initial_loss.sum() / (input.shape()[1] as f32);
+    let initial_loss = nn.train(&input, &target);
     println!("Initial loss before training: {}", initial_loss);
 
-    
-    // Train for one iteration
-    let loss = nn.train(&input, &target);
-    //println!("Loss: {}", loss);
-
     // Calculate loss after training
-    let (_, _, final_output) = nn.forward(&input);
+    let (_, final_output) = nn.forward(&input);
     let epsilon = 1e-15;
     let final_loss = -&target * &final_output.mapv(|x| (x + epsilon).ln());
     let final_loss = final_loss.sum() / (input.shape()[1] as f32);
