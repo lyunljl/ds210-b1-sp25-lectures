@@ -1,0 +1,5 @@
+https://rust-ml.github.io/book/5_linear_regression.html (1-variable linear regression)
+https://medium.com/swlh/machine-learning-in-rust-linear-regression-edef3fb65f93 (multi-variable linear regression)
+https://github.com/rust-ml/linfa/tree/b807674fa3af19f67f83504cab3ed7653af30ba2/algorithms/linfa-linear (multi-variable linear regression)
+https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+https://lib.stat.cmu.edu/datasets/boston

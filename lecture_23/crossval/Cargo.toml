@@ -1,0 +1,13 @@
+[package]
+name = "crossval"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linfa = "0.7.0"
+linfa-datasets = { version = "0.7.0", features = ["iris"] }
+linfa-trees = "0.7.0"
+ndarray = "0.16.1"
+ndarray-rand = "0.15.0"
+rand = { version = "0.8.5", features = ["small_rng"] }
+smartcore = { version = "0.3.2", features = ["datasets", "ndarray-bindings"] }

@@ -1,0 +1,8 @@
+x_train shape: (90, 4)
+y_train shape: (90)
+x_test shape: (60, 4)
+y_test shape: (60)
+Training accuracy: 97.78%
+Test accuracy: 93.33%
+Cross-validation scores: [0.93571424], shape=[1], strides=[1], layout=CFcf (0xf), const ndim=1
+Cross-validation scores general: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0] 1
