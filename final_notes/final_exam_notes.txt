@@ -1,0 +1,59 @@
+****** General Knowledge
+
+* Complexity of an algorithm/code (as a function of the input)
+
+* Networking concepts and network layers.
+
+* Multithreading, concurrency, parallelism, Amdahl's law about speedup.  Limits of parallel programming.
+
+****** Rust Language Knowledge
+
+* Traits (kinda like interfaces)
+
+* Modules and splitting programs into separate files.  Crates.
+
+* File I/O
+
+* Slices (References into parts of collections).  &str and Strings
+
+* Lifetimes of references in functions.
+
+* Closures and Iterators in Rust
+
+* Rayon and parallelism primitives (thread, mpsc, parallel iterators, scopes, locks)
+
+***** Basic Algorithms Knowledge
+
+* Graph Representations (list of edges, adjacency lists, adjacency matrix)
+
+* Counting triangles
+
+* Stacks/Queues
+
+* BFS, DFS, Connected Components, Strongly connected components.
+
+* Priority queues, binary heap implementation.
+
+* Binary search trees and their uses (range searching).
+
+* Tries
+
+* Shortest Paths (Dijkstra's algorithms)
+
+* Greedy algorithms (Minimum Spanning Tree), Divide and Conquer algorithms (MergeSort, QuickSort)
+
+
+***** Data Science In Rust
+
+* Ndarray, basic operations (dot, ndarray/scale ops, slices)
+
+* Neural Networks.  Forward and backward propagation and how it maps to matrix/matrix, matrix/vector, vector operations.
+
+* Decision Trees.  Metrics to optimize when creating a DT (Gini, Entropy).  Properties of decision Trees.
+
+* Regressions.  Single variable, multi-variable, least squares generalization.  Design matrix definition and construction.
+
+* Error metrics and their properties (MSE, MAE, others)
+
+* Cross-validation concepts.
+
